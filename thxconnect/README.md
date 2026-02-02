@@ -1,5 +1,11 @@
 # THXConnect - Web3 Wallet & DAO Platform
 
+[Website](https://thxnet.org/) | [App Store](https://apps.apple.com/us/app/thxconnect/id6471815589) | [Play Store](https://play.google.com/store/apps/details?id=org.thxnet.thxconnect&pcampaignid=web_share)
+
+**Featured:** [Yahoo Finance](https://finance.yahoo.com/news/thxnet-announces-silver-sponsorship-teamz-060400912.html) | [HR Asia](https://hr.asia/media-outreach/thxnet-launches-thxconnect-a-revolutionary-mobile-app-for-blockchain-developers/) | [THXNet Medium](https://thxnet.medium.com/thxconnect-a-one-stop-app-platform-for-developers-to-explore-build-connect-and-discover-thxnet-524ca70836d4)
+
+![THXConnect App](images/thxconnect.png)
+
 ## What it is
 
 A comprehensive Flutter mobile application serving as a multi-currency crypto wallet with integrated DAO governance, NFT management, token staking, and social platform connections. Built for the Japanese market with My Number integration, the app provides blockchain explorer functionality, fungible token (FT) transactions, and secure biometric authentication.
