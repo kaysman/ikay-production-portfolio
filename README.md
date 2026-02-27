@@ -1,6 +1,6 @@
 # Project Portfolio
 
-I am Atabek, a mobile and backend Developer and AI Enthusiast with a huge love for Dart, Node.js, Django, RDBMS, REST API and Algo problem solving.
+I am Atabek, a Mobile and Backend Developer and AI Enthusiast with a huge love for Dart, Node.js, Django, RDBMS, REST API and Algo problem solving.
 
 A curated showcase of production-grade software projects demonstrating full-stack development expertise across mobile applications, backend services, SaaS platforms, and developer tooling.
 
